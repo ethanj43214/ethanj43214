@@ -24,10 +24,23 @@ I enjoy understanding how data and technology can be used to solve real-world bu
 
 ---
 
-## 📊 Projects
-### Sales Performance Dashboard
-- Built an interactive dashboard to analyze sales trends and performance  
-- Used data visualization to generate business insights  
+## 📊 PROJECTS
+
+### Sales Data Dashboard | Power BI
+- Built a multi-page dashboard to analyze sales trends and key business metrics  
+- Generated insights using data visualization across regions and customer segments  
+
+### Godavari Basin Flood Prediction
+- Analyzed hydrological and rainfall data to identify flood patterns and trends  
+- Processed large time-series datasets and explored predictive models (LSTM, GRU)  
+
+### Coffee Sales Dashboard | Microsoft Excel
+- Created an interactive dashboard using pivot tables and slicers  
+- Analyzed sales performance across products, regions, and time periods  
+
+### Layoffs Data Analysis | MySQL
+- Cleaned and transformed raw datasets using SQL queries  
+- Performed exploratory analysis to identify trends across industries and time   
 
 *(More projects coming soon)*
 
